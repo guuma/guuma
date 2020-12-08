@@ -1,5 +1,6 @@
-# Hi there 👋
-Languages and Tools:
+## Hi there, I'm guuma!👋
+Hi, I'm guuma, a design student learning UI design and Frontend-dev in Japan<br> 
+### Languages and Tools:
 <div>
   <code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" height="20px"></code>
   <code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" height="20px"></code>
