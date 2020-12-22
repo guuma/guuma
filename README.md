@@ -22,7 +22,7 @@ Hi, I'm guuma, a design student learning UI design and Frontend-dev in Japan<br>
 
 <div>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=guuma&show_icons=true&theme=vue-dark" alt="Neos21 Stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=guuma&show_icons=true&theme=vue-dark&count_private=true" alt="Neos21 Stats">
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guuma&theme=vue-dark" />
